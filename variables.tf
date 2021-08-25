@@ -1,5 +1,2 @@
-variable "subscription_id" {}
-variable "client_id" {}
-variable "client_secret" {}
-variable "tenant_id" {}
-variable "region" {}
+variable "my_secret_key" {}
+variable "my_access_key" {}
